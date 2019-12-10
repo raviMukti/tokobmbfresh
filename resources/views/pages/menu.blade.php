@@ -102,7 +102,7 @@
                         <h4><a href="#">Lobster 2</a></h4>
                         <p>Lobster</p>
                         <div>
-                        <a href="img/portfolio/app3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Lobster" title="Preview"><i class="ion ion-eye"></i></a>
+                        <a href="img/menu/menu_lobster2.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Lobster 2" title="Preview"><i class="ion ion-eye"></i></a>
                         <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                         <h4><a href="#">Lobster 3</a></h4>
                         <p>Lobster</p>
                         <div>
-                        <a href="img/menu/menu_lobster3.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Lobster" title="Preview"><i class="ion ion-eye"></i></a>
+                        <a href="img/menu/menu_lobster3.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Lobster 3" title="Preview"><i class="ion ion-eye"></i></a>
                         <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                         </div>
                     </div>
@@ -130,13 +130,12 @@
                         <h4><a href="#">Gurita 1</a></h4>
                         <p>Gurita</p>
                         <div>
-                        <a href="img/menu/menu_gurita1.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Gurita" title="Preview"><i class="ion ion-eye"></i></a>
+                        <a href="img/menu/menu_gurita1.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Gurita 1" title="Preview"><i class="ion ion-eye"></i></a>
                         <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                         </div>
                     </div>
                     </div>
                 </div>
-        
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.2s">
                     <div class="portfolio-wrap">
                     <img src="img/menu/menu_gurita2.jpeg" class="img-fluid" alt="">
@@ -163,7 +162,6 @@
                         </div>
                         </div>
                     </div>
-    
                 </div>
             </div>
             </section><!-- #portfolio -->
