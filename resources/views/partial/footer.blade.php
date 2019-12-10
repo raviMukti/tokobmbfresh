@@ -65,7 +65,7 @@ Footer
         Licensing information: https://bootstrapmade.com/license/
         Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=NewBiz
     -->
-    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> & Develoved with Love by Aftwork
+    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> & Developed with Love by Aftwork
     </div>
 </div>
 </footer><!-- #footer -->
