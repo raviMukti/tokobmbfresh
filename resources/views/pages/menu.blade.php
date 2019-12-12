@@ -83,7 +83,7 @@
         
                 <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
                     <div class="portfolio-wrap">
-                    <img src="img/menu/menu_ikan2.jpg" class="img-fluid" alt="">
+                    <img src="img/menu/menu_ikan2.jpeg" class="img-fluid" alt="">
                     <div class="portfolio-info">
                         <h4><a href="#">Ikan 2</a></h4>
                         <p>Ikan 2</p>
