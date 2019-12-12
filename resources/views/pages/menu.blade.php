@@ -88,7 +88,7 @@
                         <h4><a href="#">Ikan 2</a></h4>
                         <p>Ikan 2</p>
                         <div>
-                        <a href="img/menu/menu_ikan2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Ikan 2" title="Preview"><i class="ion ion-eye"></i></a>
+                        <a href="img/menu/menu_ikan2.jpeg" class="link-preview" data-lightbox="portfolio" data-title="Ikan 2" title="Preview"><i class="ion ion-eye"></i></a>
                         <a href="#" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
                         </div>
                     </div>
